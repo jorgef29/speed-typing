@@ -1,0 +1,17 @@
+/*propiedades*/
+.highlight {
+    background-color: yellow;
+ }
+
+ .error {
+    background-color: lightcoral;
+    border-color: red;
+ }
+
+ body{
+   text-align: center;
+ }
+ 
+ h1{
+   font-size: 45px;
+ }
